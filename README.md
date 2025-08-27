@@ -47,7 +47,7 @@ A private Udemy-like platform for schools built with React, Firebase, and Tailwi
 
 ```bash
 git clone <repository-url>
-cd a3lmk
+cd folder
 npm install
 ```
 
